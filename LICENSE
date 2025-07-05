@@ -1,11 +1,11 @@
-Copyright © 2025 C0DE-Z
+Copyright © 2025-2026 C0DE-Z
 
 Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, and distribute the Software, provided that the following conditions are met:
 
 1. **Non-Commercial Use Only**  
-   The Software may not be used, in whole or in part, for commercial purposes. This includes, but is not limited to:
-   - Selling or licensing the Software
-   - Using the Software in a product or service for which payment is received
+   The Software may not be used, in whole or in part, for commercial purposes. This includes, but is not limited to:  
+   - Selling or licensing the Software  
+   - Using the Software in a product or service for which payment is received  
    - Using the Software to promote or support a business, organization, or commercial venture
 
 2. **Attribution**  
@@ -14,7 +14,17 @@ Permission is hereby granted to any person obtaining a copy of this software and
 3. **Modification and Distribution**  
    You may modify and share your version of the Software under the same terms, including this non-commercial clause and attribution.
 
-4. **No Warranty**  
-   THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+4. **Compliance with Laws and Regulations**  
+   You are solely responsible for ensuring that your use of the Software and any associated hardware complies with all applicable local, state/provincial, national, and international laws and regulations.  
+   This includes, but is not limited to, laws governing radio frequency usage, UAV operation, and airspace restrictions.
 
-By using the Software, you agree to these terms.
+5. **Safety Disclaimer**  
+   THIS SOFTWARE AND ANY ASSOCIATED HARDWARE DESIGNS ARE PROVIDED FOR EDUCATIONAL AND EXPERIMENTAL PURPOSES ONLY.  
+   USE OF THIS SOFTWARE IN UNMANNED AERIAL VEHICLES (UAVs), INCLUDING FPV DRONES, CARRIES INHERENT RISK.  
+   YOU ASSUME FULL RESPONSIBILITY FOR THE SAFE USE OF THIS SOFTWARE AND ANY RESULTING HARDWARE.  
+   THE AUTHOR SHALL NOT BE HELD LIABLE FOR ANY DAMAGE TO PROPERTY, INJURY, DEATH, OR LEGAL CONSEQUENCES RESULTING FROM THE USE OR MISUSE OF THIS SOFTWARE OR HARDWARE.
+
+6. **No Warranty**  
+   THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+By using the Software, you acknowledge and agree to these terms.
