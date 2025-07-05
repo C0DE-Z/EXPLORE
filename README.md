@@ -56,6 +56,17 @@ If you find an issuse Simply open one, This coud be a hardware flaw or software!
 
 - [@C0DE-Z](https://www.github.com/C0DE-Z)
 
+# License
+This project is licensed under a custom non-commercial open-source license.
+
+Non-Commercial Use Only – You may use, modify, and distribute the code and hardware designs for personal and educational purposes only. Commercial use of any kind is not permitted.
+
+Attribution Required – Credit must be given to Me (C0DE-Z) , and a link to the original GitHub repository must be included in any redistribution or modification.
+
+⚠ Use at Your Own Risk – This project is provided as-is, with no warranty. The author is not responsible for any damage, injury, or legal issues resulting from use or misuse.
+
+Follow Your Local Laws – It is your responsibility to comply with all local, state, and national regulations regarding the use of UAVs and electronic devices.
+
 
 ## Acknowledgements
 
